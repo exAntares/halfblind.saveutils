@@ -13,5 +13,9 @@ namespace HalfBlind.SaveUtils {
             var serializedValue = JsonUtility.ToJson(value);
             PlayerPrefs.SetString(key, serializedValue);
         }
+
+        public void ClearSavedData() {
+            PlayerPrefs.DeleteAll();
+        }
     }
 }
