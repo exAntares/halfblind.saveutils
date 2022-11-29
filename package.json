@@ -1,7 +1,7 @@
 {
     "name": "com.halfblind.saveutils",
-    "displayName": "halfblind.saveutils",
-    "version": "1.0.1",
+    "displayName": "HalfBlind SaveUtils",
+    "version": "1.0.2",
     "unity": "2018.1",
     "description": "This package adds interface for saving and example",
     "keywords": ["Save"],
